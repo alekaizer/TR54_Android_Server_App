@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="politics">
+        <item name="bicolore">Feux Bicolore</item>
+        <item name="sequence">Séquences</item>
+        <item name="synchronisation">Synchronisation</item>
+    </string-array>
+
+</resources>
